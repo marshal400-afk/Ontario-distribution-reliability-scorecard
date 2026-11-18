@@ -46,6 +46,7 @@ The SAIDI/SAIFI definition above was checked against the figures published in th
 - The benchmark is only meaningful from 2020, when five prior years exist.
 
 ## Files
-- `report/[file name].pdf`: PDF export of the scorecard page
+- `Hydro Ottawa Project.pdf`: PDF export of the scorecard page
+- `Hydro Ottawa Project.pbix`: Power BI report
 
 Data source: Ontario Energy Board open data. See https://oeb.ca/ontarios-energy-sector/open-data for terms.
